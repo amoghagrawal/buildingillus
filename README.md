@@ -1,2 +1,2 @@
 # keyboardillus
-A keyboard illustration made entirely in Blender.
+A small city illustration made in Blender
